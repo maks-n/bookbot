@@ -1,3 +1,1 @@
-# bookbot
-
-BookBot is my first project!
+Python scrypt to count number of words and symbols in text files.
