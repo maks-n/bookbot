@@ -14,7 +14,7 @@ def count_characters(text):
     for ch in text:
         ch = ch.lower()
         if ch in chars:
-            chars[ch] = chars[ch] + 1
+            chars[ch] += 1
         else:
             chars[ch] = 1
     return chars
